@@ -6,3 +6,4 @@ redis
 sqlalchemy
 psycopg2
 python-dotenv
+pydantic-settings
